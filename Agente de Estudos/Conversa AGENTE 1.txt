@@ -1,0 +1,155 @@
+IA:
+Olá! 👋  
+
+Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.  
+
+Preparado? Então vamos lá!  
+
+Para começar: o que mais te atrai em tecnologia — resolver problemas, criar produtos ou entender sistemas?
+
+Usuário:
+Entender e resolver problemas são as partes que mais me interessam
+
+IA:
+Legal! 🔍  
+
+E você já tem experiência na área de tecnologia ou está começando do zero?
+
+Usuário:
+Já tenho cera experiência, mas com trabalhos acadêmicos apenas e não no mercado de trabalho
+
+IA:
+Entendi! 💻📚  
+
+Quantas horas por semana você consegue dedicar aos estudos?
+
+Usuário:
+Umas 2 a 3 no máx
+
+IA:
+Perfeito!  
+
+No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?
+
+Usuário:
+Dados e código
+
+IA:
+Ótimo!  
+
+Qual é seu objetivo principal: conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?
+
+Usuário:
+Crescer na minha função atual
+
+IA:
+Show! 🚀  
+
+Quais assuntos ou tecnologias mais despertam seu interesse? Por exemplo: desenvolvimento web, dados, inteligência artificial, infraestrutura...
+
+Usuário:
+Desenvolvimento web, tratamento e análise de dados, ETL e programação no geral
+
+IA:
+Última pergunta: você tem alguma experiência prévia (mesmo que não seja em tech) que gostaria de aproveitar nessa nova jornada?
+
+Usuário:
+Acredito que não
+
+IA:
+Perfeito! Tenho tudo que preciso. Deixa eu analisar o melhor caminho para você... 🔎💭  
+
+Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
+
+════════════════════════════════════════════════════════════  
+🥇 1º LUGAR: Engenheiro de Dados - 18/20  
+════════════════════════════════════════════════════════════  
+
+💡 POR QUE COMBINA COM VOCÊ:  
+Você demonstrou forte interesse por entender sistemas, resolver problemas, trabalhar com dados e código, além de ter citado ETL e análise de dados espontaneamente. Isso praticamente desenha o perfil clássico de quem se sente em casa estruturando pipelines, organizando informação e transformando caos em inteligência.
+
+⚖️ O QUE ESPERAR:
+
+VANTAGENS:  
+- Trabalho altamente técnico, com foco em dados e arquitetura.  
+- Forte conexão com análise, BI e inteligência artificial.
+
+DESAFIOS:  
+- Exige base sólida em banco de dados e modelagem.  
+- Ramp-up pode ser um pouco mais técnico no início.
+
+📈 MERCADO:  
+É uma área com alta demanda, especialmente em empresas que trabalham com dados em escala. A procura varia bastante por região e nível de experiência, mas tende a ser consistente em mercados mais maduros.
+
+════════════════════════════════════════════════════════════  
+🥈 2º LUGAR: Desenvolvedor Backend - 16/20  
+════════════════════════════════════════════════════════════  
+
+💡 POR QUE COMBINA COM VOCÊ:  
+Você gosta de entender sistemas e resolver problemas. Backend é literalmente isso: construir a lógica que sustenta aplicações. Como você já tem base acadêmica e quer crescer na função atual, pode ser um caminho natural de especialização técnica.
+
+⚖️ O QUE ESPERAR:
+
+VANTAGENS:  
+- Forte uso de lógica, arquitetura e integração de sistemas.  
+- Muito alinhado com quem gosta mais de código do que de interação constante com pessoas.
+
+DESAFIOS:  
+- Exige estudo contínuo de padrões, APIs e arquitetura.  
+- Pode envolver lidar com sistemas legados.
+
+📈 MERCADO:  
+Backend é uma das áreas mais tradicionais e sempre demandadas. A competitividade varia conforme stack e região, além do seu nível de especialização.
+
+════════════════════════════════════════════════════════════  
+🥉 3º LUGAR: Analista de Dados - 15/20  
+════════════════════════════════════════════════════════════  
+
+💡 POR QUE COMBINA COM VOCÊ:  
+Você gosta de dados e de resolver problemas. Essa carreira foca em extrair insights e interpretar informações para apoiar decisões. Pode ser interessante se você quiser um pouco mais de análise e menos engenharia pesada.
+
+⚖️ O QUE ESPERAR:
+
+VANTAGENS:  
+- Forte conexão com negócio e tomada de decisão.  
+- Evolui naturalmente para áreas como BI ou ciência de dados.
+
+DESAFIOS:  
+- Pode envolver mais comunicação com áreas de negócio.  
+- Menos foco em sistemas complexos comparado à engenharia.
+
+📈 MERCADO:  
+A demanda costuma ser boa, especialmente em empresas orientadas a dados. Como sempre, isso varia por região, maturidade da empresa e experiência.
+
+════════════════════════════════════════════════════════════  
+
+Qual dessas carreiras te chamou mais atenção?
+
+Usuário:
+Todas são opções muito interessantes, mas a primeira e a segunda são as principaos
+
+IA:
+Excelente! 👌  
+
+Entre Engenheiro de Dados e Desenvolvedor Backend, qual delas você quer escolher como foco principal agora?  
+
+Me diz uma só para eu te encaminhar para o especialista certo. 🚀
+
+Usuário:
+Devido ao meu trabalho atual, pode ser desenvolvedor Backend
+
+IA:
+Excelente escolha! 🚀  
+
+Vou te passar para meu colega especialista em Desenvolvedor Backend. Ele vai montar todo o plano de estudos personalizado para você!  
+
+Estou transferindo as seguintes informações para ele:
+
+- Carreira escolhida: Desenvolvedor Backend  
+- Horas disponíveis por semana: 2 a 3 horas  
+- Nível de experiência: Experiência acadêmica (sem mercado ainda)  
+- Objetivo: Crescer na função atual  
+- Preferência: Dados e código  
+- Interesses técnicos: Desenvolvimento web, tratamento e análise de dados, ETL e programação em geral  
+
+Agora você está com o especialista em Backend. 🎯
